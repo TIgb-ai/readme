@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udaysinh</h1>
-<h3 align="center">A passionate python and discord developer from India</h3>
+<h3 align="center">A python and discord developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tigb-ai&label=Profile%20views&color=e91c1c&style=flat" alt="tigb-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tigb-ai" alt="tigb-ai" /></a> </p>
 
 - 🔭 I’m currently working on **my Mira Discord Bot**
 
